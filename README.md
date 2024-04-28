@@ -42,7 +42,7 @@ docker run --rm -d -v ./config:/config kometateam/kometa:nightly --config config
 ```
 ###### Notes:
 ``
-The parental configuration adds a 'Parental' label to their collections and all items included. The label is capable of being used with 'Allow Only Labels' in a user's restriction settings.
+With the parental configuration, there is a 'Parental' label added to their collections and all items included. The label can be used with 'Allow Only Labels' in a user's restriction settings.
 ``
 #
 #
